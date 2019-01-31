@@ -1,0 +1,9 @@
+{
+  "name": "nuxt-issue-3828",
+  "scripts": {
+    "dev": "nuxt"
+  },
+  "dependencies": {
+    "nuxt": "^2.4.2"
+  }
+}
