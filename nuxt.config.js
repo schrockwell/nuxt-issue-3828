@@ -1,8 +1,8 @@
 export default {
   build: {
     filenames: {
-     app: () => '[chunkhash].js',
-     chunk: () => '[chunkhash].js'
+     app: () => '[name].[hash].js',
+     chunk: () => '[name].[hash].js'
     }
   }
 }
